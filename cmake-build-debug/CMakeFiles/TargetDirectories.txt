@@ -1,0 +1,3 @@
+C:/Users/javad/CLionProjects/CreateFileHandle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/javad/CLionProjects/CreateFileHandle/cmake-build-debug/CMakeFiles/CreateFileHandle.dir
+C:/Users/javad/CLionProjects/CreateFileHandle/cmake-build-debug/CMakeFiles/edit_cache.dir
