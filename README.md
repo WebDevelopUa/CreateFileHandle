@@ -1,7 +1,7 @@
 # CreateFileHandle
 #### Консольное приложение, C++
 
-*Source.cpp*: определяет точку входа для консольного приложения.
+*main.cpp*: определяет точку входа для консольного приложения.
 
 Приложение создает текстовый файл *Hello.txt*, используя фукуцию **CreateFile()**
 
@@ -18,7 +18,7 @@
 -----------------------------------------------------------------------------------------------------
 #### Console application, C ++
 
-*Source.cpp*: Specifies the entry point for the console application.
+*main.cpp*: Specifies the entry point for the console application.
 
 The application creates a text file *Hello.txt*, using the function **CreateFile()**
 
